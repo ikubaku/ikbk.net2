@@ -1,8 +1,10 @@
 <template>
-  <div>
-    <h1 v-html="$page.staticPage.title" />
-    <div v-html="$page.staticPage.content" />
-  </div>
+  <Layout>
+    <div>
+      <h1 v-html="$page.staticPage.title" />
+      <div v-html="$page.staticPage.content" />
+    </div>
+  </Layout>
 </template>
 
 <page-query>
