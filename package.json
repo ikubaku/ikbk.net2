@@ -2,14 +2,23 @@
   "name": "ikbk.net2",
   "private": true,
   "scripts": {
+    "build": "gridsome build",
+    "lint": "vue-cli-service lint",
     "develop": "gridsome develop",
-    "explore": "gridsome explore",
-    "build": "gridsome build"
+    "explore": "gridsome explore"
   },
   "dependencies": {
     "@dotcircle/transformer-asciidoc": "^0.0.3",
     "@gridsome/source-filesystem": "^0.6.2",
     "@sindresorhus/slugify": "^2.1.0",
     "gridsome": "^0.7.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-vue": "^6.2.2",
+    "prettier": "^2.2.1"
   }
 }
