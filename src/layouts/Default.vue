@@ -12,6 +12,7 @@
             <g-link class="nav__link" to="/">Home</g-link>
             <g-link class="nav__link" to="/about/">About</g-link>
             <g-link class="nav__link" to="/works/">Works</g-link>
+            <g-link class="nav__link" to="/hall_of_fame">The Hall of Fame</g-link>
           </i-nav>
         </i-navbar-items>
       </i-navbar>

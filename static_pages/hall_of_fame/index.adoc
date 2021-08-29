@@ -1,0 +1,39 @@
+= The Hall of Fame
+
+プレイしたゲームと記録などを気が向いたときに貼っていきます。
+
+== 全実績解除 || 全コンテンツ開放ぐらい
+* New Super Mario Bros.
+* EdiFighter
+* Mario Kart 7
+
+== クリア（真エンド見たなど）
+* ポケットモンスター・ダイヤモンド（殿堂入り）
+* ポケットモンスター・プラチナ（殿堂入り）
+* Mario Kart DS（150ccミラーグランプリ全制覇）
+* OneShot + OneShot Solstice（真エンド）
+* State of Mind（エンディングを1つ開放）
+* Rusty Lake Paradise（すべての謎を解く）
+* TETRA（すべての謎を解く）
+* くまのレストラン（すべての謎を解く）
+* DATA WING（最終ステージクリア）
+* Cytus α（Alive全開放、Debris全開放、Chapter K, Lの隠し楽曲全開放）
+* Cytus II（v3.0までのストーリー制覇（DLCを除く））
+* ACE COMBAT 7（難易度EasyでCampaignとDLC Mission全部をクリア）
+* デジモン リアライズ（ストーリー シーズン1クリア）
+
+== その他実績など（タイトルごと）
+=== GENETOS
+- 進化系譜コンプリート
+
+=== Cytus II
+- link:/hall_of_fame/cytus_ii/[Cytus IIの記録一覧]
+
+=== Cytus
+- link:/hall_of_fame/cytus/[Cytusの記録一覧]
+
+=== Cytus α
+- link:/hall_of_fame/cytus_alpha/[Cytus αの記録一覧]
+
+=== Phigros
+- link:/hall_of_fame/phigros/[Phigrosの記録一覧]

@@ -1,0 +1,36 @@
+= Phigros - 記録一覧
+
+Phigrosの最高記録です．
+
+Ranking Score: 11.79
+
+== Phi(AP)
+- Dlyrotz [EZ 6]
+- Pixel Rebelz [HD 11]
+- Non-Melodic Ragez [EZ 5]
+- JunXion Between Life And Death(VIP Mix) [EZ 3]
+- 尊師〜The Guru〜 [HD 9]
+- Find_Me [EZ 5]
+
+== FC（PerfectとGoodのみ。Phi評価の譜面含む）
+|===
+|EZ |5
+|HD |24
+|IN |1
+|AT |0
+|SP |0
+|===
+
+== AT難易度曲
+- もぺもぺ [AT 14]: 897736(ACC: 96.01%)
+
+== SP難易度曲（裏譜面）
+- Dead Soul: 854814(ACC: 92.97%)
+
+== ボス譜面
+=== Spasmodic
+|===
+|EZ |999506(ACC: 99.95%; FC)
+|HD |993728(ACC: 99.30%; FC)
+|IN |未プレイ
+|===

@@ -1,0 +1,15 @@
+= Cytus - 記録一覧
+
+結果はAlive曲、裏譜面を除きます
+
+== TP100(AP)
+なし
+
+== Million Master
+|===
+|EASY   |40 / 221
+|HARD   |23 / 221
+|===
+
+== Freedom D↓ve [HARD 9]
+未プレイ

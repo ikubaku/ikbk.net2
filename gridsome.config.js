@@ -29,13 +29,13 @@ module.exports = {
       use: "@gridsome/source-filesystem",
       options: {
         typeName: "StaticPage",
-        path: "./static_pages/*.adoc",
+        baseDir: "./static_pages",
+        path: "./**/*.adoc",
       },
     },
   ],
   templates: {
     Post: "/posts/:slug",
-    StaticPage: "/:slug",
   },
   transformers: {
     asciidoc: {

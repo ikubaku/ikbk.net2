@@ -1,0 +1,77 @@
+= Cytus II - 記録の一覧
+
+最高記録一覧です．
+
+== TP100(AP)
+- Survive [EASY 1]
+- SECRET;WEAPON [EASY 5]
+- One Way Love [EASY 2]
+- Blow my mind [EASY 3], [HARD 9]
+- Chrome VOX [EASY 4]
+- CODE NAME : GAMMA [HARD 9]
+- Devillic Sphere [EASY 3]
+- CODE NAME : SIGMA [EASY 5]
+- Purge [EASY 4]
+- Anchor [EASY 1]
+- Chaos and Abyss -3rd Movement- [EASY 6]
+
+== Million Master
+|===
+|EASY   |77 / 285
+|HARD   |83 / 285
+|CHAOS  |23 / 285
+|GLITCH |0 / 14
+|===
+
+== GLITCH難易度曲
+すべて未プレイ
+
+== ボス譜面
+=== Devillic Sphere
+|===
+|EASY  |Million Master(TP100)
+|HARD  |Million Master(TP: 98.91%)
+|CHAOS |919729(TP: 96.72%)
+|===
+
+=== CHAOS
+|===
+|EASY  |Million Master(TP: 99.77%)
+|HARD  |Million Master(TP: 98.85%)
+|CHAOS |952893(TP: 96.08%)
+|イベント |Million Master
+|===
+
+=== V.
+|===
+|EASY  |Million Master(TP: 99.86%)
+|HARD  |Million Master(TP: 99.16%)
+|CHAOS |934783(TP:95.10%)
+|イベント |Million Master
+|===
+
+=== CHAOS //System Offline//
+|===
+|EASY |未プレイ
+|HARD |Million Master(TP: 99.26%)
+|CHAOS |938103(TP:94.84%)
+|===
+
+=== V. //System Offline//
+|===
+|EASY |未プレイ
+|HARD |Million Master(TP:99.26%)
+|CHAOS |952854(TP:96.031%)
+|===
+
+=== Ⅱ //System Offline//
+|===
+|EASY |Million Master(TP: 99.57%)
+|HARD |994064(TP:98.95%)
+|===
+
+===  ͟͝͞Ⅱ́̕
+|===
+|CHAOS |975029(TP:96.81%)
+|イベント |Million Master
+|===
