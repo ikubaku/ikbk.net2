@@ -23,9 +23,6 @@ module.exports = {
       options: {
         typeName: 'Post',
         path: './posts/*.adoc',
-        asciidoc: {
-
-        },
       },
     },
   ],
