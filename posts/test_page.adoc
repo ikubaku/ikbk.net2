@@ -1,0 +1,6 @@
+:slug: test_page
+
+= Test Page
+
+== 段落
+ほげ
