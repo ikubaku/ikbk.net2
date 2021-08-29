@@ -25,9 +25,17 @@ module.exports = {
         path: "./posts/*.adoc",
       },
     },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "StaticPage",
+        path: "./static_pages/*.adoc",
+      },
+    },
   ],
   templates: {
     Post: "/posts/:slug",
+    StaticPage: "/:slug",
   },
   transformers: {
     asciidoc: {
