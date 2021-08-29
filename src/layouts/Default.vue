@@ -1,16 +1,28 @@
 <template>
-  <div class="layout">
-    <header class="header">
-      <strong>
-        <g-link to="/">{{ $static.metadata.siteName }}</g-link>
-      </strong>
-      <nav class="nav">
-        <g-link class="nav__link" to="/">Home</g-link>
-        <g-link class="nav__link" to="/about/">About</g-link>
-      </nav>
-    </header>
-    <slot />
-  </div>
+  <i-layout>
+    <i-layout-header>
+      <i-navbar>
+        <i-navbar-brand>
+          <strong>
+            <g-link to="/">{{ $static.metadata.siteName }}</g-link>
+          </strong>
+        </i-navbar-brand>
+        <i-navbar-items class="_justify-content-end">
+          <i-nav>
+            <g-link class="nav__link" to="/">Home</g-link>
+            <g-link class="nav__link" to="/about/">About</g-link>
+            <g-link class="nav__link" to="/works/">Works</g-link>
+          </i-nav>
+        </i-navbar-items>
+      </i-navbar>
+    </i-layout-header>
+    <i-layout-content>
+      <slot />
+    </i-layout-content>
+    <i-layout-footer>
+      <p>2021 C ikubaku - all rights reserved</p>
+    </i-layout-footer>
+  </i-layout>
 </template>
 
 <static-query>
