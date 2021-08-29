@@ -9,6 +9,7 @@
   "dependencies": {
     "@dotcircle/transformer-asciidoc": "^0.0.3",
     "@gridsome/source-filesystem": "^0.6.2",
+    "@sindresorhus/slugify": "^2.1.0",
     "gridsome": "^0.7.0"
   }
 }
