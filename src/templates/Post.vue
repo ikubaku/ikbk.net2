@@ -16,10 +16,8 @@ query ($id: ID!) {
 
 <script>
 export default {
-  name: ""
-}
+  name: "",
+};
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>

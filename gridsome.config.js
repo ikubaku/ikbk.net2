@@ -5,37 +5,37 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'ikbk.net',
+  siteName: "ikbk.net",
   permalinks: {
     slugify(value) {
-      let validSlugPattern = /^[^-_]+([-_][^-_]+)*$/
-      if(validSlugPattern.test(value)) {
-        return value
+      let validSlugPattern = /^[^-_]+([-_][^-_]+)*$/;
+      if (validSlugPattern.test(value)) {
+        return value;
       }
       import("@sindresorhus/slugify").then((module) => {
-        return module.default(value)
-      })
+        return module.default(value);
+      });
     },
   },
   plugins: [
     {
-      use: '@gridsome/source-filesystem',
+      use: "@gridsome/source-filesystem",
       options: {
-        typeName: 'Post',
-        path: './posts/*.adoc',
+        typeName: "Post",
+        path: "./posts/*.adoc",
       },
     },
   ],
   templates: {
-    Post: '/posts/:slug'
+    Post: "/posts/:slug",
   },
   transformers: {
     asciidoc: {
-      safe: 'safe',
-      icons: 'font',
+      safe: "safe",
+      icons: "font",
       attributes: {
-        imagesdir: '/assets/img',
+        imagesdir: "/assets/img",
       },
     },
   },
-}
+};
