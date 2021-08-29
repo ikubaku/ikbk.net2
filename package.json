@@ -10,10 +10,12 @@
   "dependencies": {
     "@dotcircle/transformer-asciidoc": "^0.0.3",
     "@gridsome/source-filesystem": "^0.6.2",
+    "@inkline/inkline": "^2.0.0",
     "@sindresorhus/slugify": "^2.1.0",
     "gridsome": "^0.7.0"
   },
   "devDependencies": {
+    "@inkline/vue-cli-plugin-inkline": "~2.3.6",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/eslint-config-prettier": "^6.0.0",
     "eslint": "^6.7.2",

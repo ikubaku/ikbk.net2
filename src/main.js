@@ -3,7 +3,11 @@
 
 import DefaultLayout from "~/layouts/Default.vue";
 
+import Inkline from "@inkline/inkline";
+import "@inkline/inkline/dist/inkline.css";
+
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
+  Vue.use(Inkline);
   Vue.component("Layout", DefaultLayout);
 }
