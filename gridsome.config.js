@@ -6,6 +6,17 @@
 
 module.exports = {
   siteName: 'ikbk.net',
+  permalinks: {
+    slugify(value) {
+      let validSlugPattern = /^[^-_]+([-_][^-_]+)*$/
+      if(validSlugPattern.test(value)) {
+        return value
+      }
+      import("@sindresorhus/slugify").then((module) => {
+        return module.default(value)
+      })
+    },
+  },
   plugins: [
     {
       use: '@gridsome/source-filesystem',

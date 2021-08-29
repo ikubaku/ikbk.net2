@@ -1,6 +1,6 @@
 :slug: test_page
 
-= Test Page
+= テストページ
 
 == 段落
 ほげ
