@@ -33,6 +33,9 @@ module.exports = {
         path: "./**/*.adoc",
       },
     },
+    {
+      use: "gridsome-plugin-tailwindcss",
+    },
   ],
   templates: {
     Post: "/posts/:slug",
